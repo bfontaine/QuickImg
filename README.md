@@ -1,7 +1,7 @@
 QuickImg
 ========
 
-QuickImg is a small JS library (less than 0.2kb) used to preload large images
+QuickImg is a small JS library (less than 0.3kb) used to preload large images
 with smaller ones. Use low-resolution URLs in `src` tags, and high-resolutions
 ones in `data-hd-src` ones. QuickImg will then replace low-resolution images
 with high-resolution ones.
